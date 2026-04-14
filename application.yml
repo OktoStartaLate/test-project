@@ -1,0 +1,3 @@
+build:
+  name: test-build-default
+  version: 0.0.1-default

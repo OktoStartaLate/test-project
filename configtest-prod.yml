@@ -1,0 +1,3 @@
+build:
+  name: test-build-prod
+  version: 0.0.1-prod
